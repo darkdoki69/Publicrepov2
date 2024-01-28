@@ -1,1 +1,1 @@
-vless://278e4d15-2be8-429b-9f12-733b99b63787@159.69.126.110:25291?path=%2F&security=reality&encryption=none&pbk=d_Grt_MzHxPYvvkMbF6ZZOEQm8kDgaggeO43p-1sTB0&fp=firefox&type=http&sni=whatismyipaddress.com&sid=35efccc4#%F0%9F%94%92+VL-HTTP-RLT+%F0%9F%87%A9%F0%9F%87%AA+DE-159.69.126.110%3A25291+%F0%9F%93%A1+PING-089.32-MS
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.195.20:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%94%92+VL-WS-NONE+%F0%9F%87%BA%F0%9F%87%B8+US-172.67.195.20%3A80+%F0%9F%93%A1+PING-000.64-MS
