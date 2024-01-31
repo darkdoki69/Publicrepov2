@@ -1,1 +1,1 @@
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.195.20:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%94%92+VL-WS-NONE+%F0%9F%87%BA%F0%9F%87%B8+US-172.67.195.20%3A80+%F0%9F%93%A1+PING-000.64-MS
+vless://41a40408-bf12-4be3-8d95-8f69d6751b6b@de1.warzone.click:24369?type=tcp&security=none&sni=playstation.com&headerType=http&path=/&host=playstation.com#V2rayHup🇩🇪-81556
