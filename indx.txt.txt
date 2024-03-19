@@ -1,0 +1,1 @@
+vless://5ba6acff-11c0-4e64-af7d-4767ac591244@178.128.37.164:443?security=&type=ws&path=/iranmedicalvpn&encryption=none#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AC%F0%9F%87%A7%20GB-178.128.37.164:443%20%F0%9F%93%A1%20PING-078.76-MS
